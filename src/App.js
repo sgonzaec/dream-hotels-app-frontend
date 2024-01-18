@@ -5,8 +5,8 @@ import SingUp from './Pages/SingUp/SingUp';
 function App() {
   return (
     <div className="App">
-      <Login />
-    {/* <SingUp/> */}
+      {/* <Login /> */}
+    <SingUp/>
     </div>
   );
 }
